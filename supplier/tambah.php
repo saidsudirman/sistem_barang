@@ -59,7 +59,7 @@
 
         <button type="submit">Simpan</button>
     </form>
-    <a href="../dashboard.php" class="back">← Kembali ke dashbord</a>
+    <a href="index.php" class="back">← Kembali ke Data Supplier/</a>
 </div>
 
 </body>
