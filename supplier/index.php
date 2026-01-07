@@ -93,6 +93,7 @@ $data = mysqli_query($koneksi, "SELECT * FROM supplier");
         </tr>
         <?php } ?>
     </table>
+    <a href="../dashboard.php" class="back">← Kembali ke dashbord</a>
 </div>
 
 </body>
