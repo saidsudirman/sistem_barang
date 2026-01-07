@@ -59,6 +59,7 @@
 
         <button type="submit">Simpan</button>
     </form>
+    <a href="../dashboard.php" class="back">← Kembali ke dashbord</a>
 </div>
 
 </body>

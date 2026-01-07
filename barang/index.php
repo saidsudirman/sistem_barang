@@ -106,6 +106,7 @@ $data = mysqli_query($koneksi, "
         </tr>
         <?php } ?>
     </table>
+    <a href="../dashboard.php" class="back">← Kembali ke dashbord</a>
 </div>
 
 </body>
